@@ -1,0 +1,1 @@
+print("AeroRush client started")
